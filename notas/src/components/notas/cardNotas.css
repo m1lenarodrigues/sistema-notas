@@ -1,0 +1,19 @@
+.card-nota-geral {
+  color: #778899;
+}
+
+.card-nota-titulo {
+  text-align: -webkit-left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2em;
+  margin-right: 12px;
+}
+
+.card-nota {
+  font-size: 1.1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
